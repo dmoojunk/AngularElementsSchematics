@@ -1,4 +1,4 @@
-## What is a native web component?
+## What is a web component?
 
 Custom, reusable, encapsulated HTML tags.
 
